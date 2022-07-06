@@ -1,0 +1,4 @@
+Website:
+    CSS + HTML
+    SQL/SQLite
+    JavaScript
